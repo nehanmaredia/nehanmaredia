@@ -1,5 +1,5 @@
 # 💫 About Me:
-public class Profile {<br>    String fullName = "Nehan Maredia";<br>    String[] preferredPronouns = {"He", "Him"};<br>    String homeBase = "Austin, Texas, United States";<br>    String startedCoding = "Sixth Grade";<br>    String[] interests = {"Programming, Piano, Baking, Mathematics, Skateboarding"};<br>    <br>    public class OnlinePresence {<br>        String linkedIn = "https://www.linkedin.com/in/nehan-maredia-02a3b3316";<br>        String Instagram = "nehan.maredia"<br><br>    }<br>    <br>    String randomFact = "I can solve a Rubik's cube in under 2 minutes!";<br>    String reachOut = "nehanmd22@gmail.com";<br>
+public class Profile {<br>    String fullName = "Nehan Maredia";<br>    String[] preferredPronouns = {"He", "Him"};<br>    String homeBase = "Austin, Texas, United States";<br>    String startedCoding = "Sixth Grade";<br>    String[] interests = {"Programming, Piano, Baking, Mathematics, Skateboarding"};<br>    <br>    public class OnlinePresence {<br>        String linkedIn = "https://www.linkedin.com/in/nehanmaredia;<br>        String Instagram = "nehan.maredia"<br><br>    }<br>    <br>    String randomFact = "I can solve a Rubik's cube in under 2 minutes!";<br>    String reachOut = "nehanmd22@gmail.com";<br>
 
 
 # 💻 Tech Stack:
